@@ -14,7 +14,7 @@ html, body {
   width: 100%;
   color: #B4D1DB;
   display: inline-block;
-  z-index: 2;
+  z-index: 9999;
 }
 
 .nav>li {
@@ -37,4 +37,10 @@ section.module.parallax {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.placeholder-image {
+  width: 250px;
+  height: 250px;
+
 }
