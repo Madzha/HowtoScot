@@ -4,13 +4,14 @@
 }*/
 
 .blue-box {
-  background-color: #B4D1DB;
-  padding: 60px;
+  background-image: url("http://cdn.wallpapersafari.com/88/57/H6SBER.jpg");
+  background-size: cover;
+  padding: 60px 250px 60px 250px;
   }
 
   .white-box {
   background-color: white;
-  padding: 50px 200px 20px 200px;
+  padding: 50px 100px 50px 100px;
   border-radius: 10px;
   }
 
@@ -20,7 +21,7 @@
 }
 
 .sticky-nav {
-  background: #D5E5EB;
+  background: #F2F2F2;
   height: 50px;
   width: 100%;
   color: #B4D1DB;
@@ -37,9 +38,9 @@
 }
 
 h1 {
-  padding-top: 40px;
   font-family: 'Raleway';
   font-size: 30px;
+  padding: 40px 60px 0px 60px;
 }
 
 section.module.parallax {
@@ -60,4 +61,9 @@ section.module.parallax {
   display: block;
   margin-left: auto;
   margin-right: auto
+}
+
+p {
+  text-align: justify;
+  padding: 0px 60px 0px 60px;
 }
