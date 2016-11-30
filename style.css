@@ -44,7 +44,7 @@ h1 {
 }
 
 section.module.parallax {
-  min-height: 700px;
+  min-height: 900px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
